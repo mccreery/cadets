@@ -1,0 +1,11 @@
+init j = 0;
+
+while i not 0 do;
+	incr j;
+	incr j;
+	decr i;
+end;
+
+for k = 10 to 15 do;
+	incr i;
+end;
